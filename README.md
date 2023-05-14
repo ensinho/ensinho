@@ -1,5 +1,5 @@
-<h1 align="center">Opa eu sou o Ensinho</h1>
-<h3 align="center">Um iniciante em front-end</h3>
+<h1 align="center">Olá, eu sou o Ensinho</h1>
+<h3 align="center">Um iniciante (bem iniciante) em front-end</h3>
 
 - 🔭 Atualmente cursando Computaçao na **Universidade Federal do Ceará - UFC**
 
