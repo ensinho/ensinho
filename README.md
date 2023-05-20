@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente cursando Computaçao na **Universidade Federal do Ceará - UFC**
 
-- 🌱 Aprendendo: **Java, HTML e CSS**
+- 🌱 Aprendendo: **Java, HTML, CSS e Figma**
 
 - 👯 Estou visando aprender mais sobre: **Front-end e UI/UX**
 
