@@ -9,7 +9,7 @@
 
 - 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
-- 💻 Meu aprendizado...
+# 💻 Meu aprendizado...
 
 <p align="center">
   <a href="https://skillicons.dev">
