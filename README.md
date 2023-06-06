@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Ensinho</h1>
 <h3 align="center">Um iniciante (bem iniciante) em front-end</h3>
 
-- 🔭 Atualmente cursando Computaçao na **Universidade Federal do Ceará - UFC**
+- 🔭 Atualmente no 3° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
 
-- 🌱 Aprendendo: **Java, HTML, CSS e Figma**
+- 🌱 Aprendendo neste momento: **Java, HTML, CSS e Figma**
 
-- 👯 Estou visando aprender mais sobre: **Front-end e UI/UX**
+- 👯 Futuros aprendizados: **Front-end e UI/UX**
 
-- 📫 Como me contatar **enzoesmeraldo@alu.ufc.br**
+- 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
-# Meu aprendizado...
+- 💻 Meu aprendizado...
 
 <p align="center">
   <a href="https://skillicons.dev">
