@@ -9,11 +9,11 @@
 
 - 📫 Como me contatar **enzoesmeraldo@alu.ufc.br**
 
-# My learning
+# Meu aprendizado...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,replit" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,replit,illustrator" />
   </a>
 </p>
 
