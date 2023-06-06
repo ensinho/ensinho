@@ -9,6 +9,13 @@
 
 - 📫 Como me contatar **enzoesmeraldo@alu.ufc.br**
 
+# My learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,replit" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
