@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ensinho</h1>
+<h1 align="center">Olá, eu sou o Enzo</h1>
 <h3 align="center">Um iniciante (bem iniciante) em front-end</h3>
 
 - 🔭 Atualmente no 3° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
