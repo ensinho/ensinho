@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente no 4° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
 
-- 🌱 Aprendendo neste momento: **C++, UML, HTML, CSS e Figma**
+- 🌱 Aprendendo neste momento: **C++, HTML, CSS e Figma**
 
 - 👯 Futuros aprendizados: **Front-end e UI/UX**
 
