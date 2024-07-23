@@ -3,7 +3,7 @@
 
 - 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
 
-- 🦕 Learning now: **TypeScript,Angular e Git**
+- 🦕 Learning now: **TypeScript,Angular and Git**
 
 - 🐢 Want to learn more: **VueJs e ReactJs**
 
