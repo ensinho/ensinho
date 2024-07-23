@@ -1,15 +1,15 @@
-<h1 align="center">Olá, eu sou o Enzo Esmeraldo 🦖</h1>
-<h3 align="center">Um desenvolvedor front-end que gosta de tubarões 🦈 </h3>
+<h1 align="center">Hello! i am Enzo Esmeraldo 🦖</h1>
+<h3 align="center">A front-end developer who likes sharks 🦈 </h3>
 
-- 🔭 Atualmente estou no 5° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
+- 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
 
-- 🦕 Aprendendo por agora: **TypeScript,Angular e Git**
+- 🦕 Learning now: **TypeScript,Angular e Git**
 
-- 🐢 Quero aprender mais: **VueJs e ReactJs**
+- 🐢 Want to learn more: **VueJs e ReactJs**
 
-- 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
+- 📫 My email: **enzoesmeraldo@alu.ufc.br**
 
-# 💻 Minhas experiências...
+# 💻 My experiences...
 
 <p align="center">
   <a href="https://skillicons.dev">
