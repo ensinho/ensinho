@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Enzo Esmeraldo 🦖</h1>
 <h3 align="center">Um desenvolvedor front-end que gosta de tubarões 🦈 </h3>
 
-- 🔭 Atualmente no 5° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
+- 🔭 Atualmente estou no 5° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
 
 - 🦕 Aprendendo por agora: **TypeScript,Angular e Git**
 
-- 🐢 Futuros aprendizados: **VueJs e ReactJs**
+- 🐢 Quero aprender mais: **VueJs e ReactJs**
 
 - 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
