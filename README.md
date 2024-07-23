@@ -24,6 +24,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ensinho" height="150" alt="languages graph"  />
+  ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight)
 </div>
 
 ###
