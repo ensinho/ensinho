@@ -5,7 +5,7 @@
 
 - 🦕 Aprendendo por agora: **TypeScript,Angular e Git**
 
-- 🐢 Futuros aprendizados: **VueJs**
+- 🐢 Futuros aprendizados: **VueJs ReactJs**
 
 - 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
