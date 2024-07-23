@@ -9,7 +9,7 @@
 
 - 📫 My email: **enzoesmeraldo@alu.ufc.br**
 
-# 💻 My experiences...
+# 💻 Languages & Tools...
 
 <p align="center">
   <a href="https://skillicons.dev">
