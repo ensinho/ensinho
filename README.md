@@ -5,7 +5,7 @@
 
 - 🦕 Learning now: **TypeScript,Angular and Git**
 
-- 🐢 Want to learn more: **VueJs e ReactJs**
+- 🐢 Want to learn more: **Vue.Js e React**
 
 - 📫 My email: **enzoesmeraldo@alu.ufc.br**
 
