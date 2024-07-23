@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Enzo</h1>
-<h3 align="center">Um iniciante em front-end</h3>
+<h3 align="center">Um desenvolvedor em front-end</h3>
 
 - 🔭 Atualmente no 5° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
 
-- 🌱 Aprendendo neste momento: **JavaSript, Git**
+- 🌱 Aprendendo neste momento: **TypeScript,Angular e Git**
 
-- 👯 Futuros aprendizados: **React e AngularJS**
+- 👯 Futuros aprendizados: **VueJs**
 
 - 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
