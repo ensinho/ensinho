@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Enzo Esmeraldo</h1>
-<h3 align="center">Um desenvolvedor front-end</h3>
+<h3 align="center">Um desenvolvedor front-end que gosta de tubarões ! </h3>
 
 - 🔭 Atualmente no 5° Semestre de Ciência da Computaçao na **Universidade Federal do Ceará - UFC**
 
-- 🌱 Aprendendo neste momento: **TypeScript,Angular e Git**
+- 🌱 Aprendendo por agora: **TypeScript,Angular e Git**
 
 - 👯 Futuros aprendizados: **VueJs**
 
 - 📫 Meu email institucional: **enzoesmeraldo@alu.ufc.br**
 
-# 💻 Meu aprendizado...
+# 💻 Minhas experiências...
 
 <p align="center">
   <a href="https://skillicons.dev">
