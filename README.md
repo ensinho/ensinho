@@ -1,5 +1,5 @@
-<h1 align="center">Hey ! I am Enzo Esmeraldo 🦖</h1>
-<h3 align="center">A front-end developer who likes sharks 🦈 </h3>
+<h1 align="start">Hey ! I am Enzo Esmeraldo 🦖</h1>
+<h3 align="start">A front-end developer who likes sharks 🦈 </h3>
 
 - 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
 
