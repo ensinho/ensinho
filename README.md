@@ -23,7 +23,7 @@
 
 <div align="start">
  <img src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=tokyonight&hide_border=false&username=ensinho" height="195" alt="languages graph" style="margin-left: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=tokyonight&hide_border=false&username=ensinho" height="195" alt="languages graph" style="margin-left: 20;" />
 
 </div>
 
