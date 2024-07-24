@@ -5,8 +5,6 @@
 
 - 🦕 Learning now: **TypeScript,Angular and Git**
 
-- 🐢 Want to learn more: **Vue.Js e React**
-
 - 📫 My email: **enzoesmeraldo@alu.ufc.br**
 
 # 💻 Languages & Tools...
@@ -14,7 +12,7 @@
 <p align="start">
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,python,html,css,scss,typescript,js,cpp,git,github,vscode,figma,replit,illustrator,linkedin&perline=16" />
+    <img src="https://skillicons.dev/icons?i=angular,java,python,html,css,scss,typescript,js,cpp,git,github,vscode,figma,replit,linkedin&perline=16" />
   </a>
 
 </p>
