@@ -11,19 +11,17 @@
 
 <p align="start">
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,typescript,cpp,git,vscode,replit,figma,linkedin&perline=16" />
-    
-  </a>
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr);">
         <div>
             <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript " />
-            <img height="25" src="https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D" alt="typescript" title="Typescript " />
-            <img height="25" src="https://img.shields.io/badge/next.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NuxtJs" title="NuxtJs " />
+            <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="Typescript " />
             <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="Angular " />
+            <img height="25" src="https://img.shields.io/badge/next.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NuxtJs" title="NuxtJs " />
             <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" title="Java " />
             <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python" />
+            <img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" title="Git" />
+            <img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" title="C++" />
+            <img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" title="VScode" />        
          </div>
          <div>
             <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML " />
@@ -32,6 +30,8 @@
             <img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title="Node.js " />
             <img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" title="Git " />
             <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm " />
+            <img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" title="Figma" />
+            <img height="25" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" title="Replit" />
 
   </div>
 </p>
