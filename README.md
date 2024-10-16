@@ -1,5 +1,5 @@
 <h1 align="start">Hey ! I am Enzo Esmeraldo 🦖</h1>
-<h3 align="start">A Fullstack developer who likes pokémon <img height="25" src="https://www.pngplay.com/image/304458" />  </h3>
+<h3 align="start">A Fullstack developer who likes pokémon <img height="25" src="[https://www.pngplay.com/image/304458](https://www.pngplay.com/wp-content/uploads/12/Wartortle-Pokemon-Download-Free-PNG.png)" />  </h3>
 
 - 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
 
