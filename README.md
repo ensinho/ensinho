@@ -1,4 +1,4 @@
-<h1 align="start">Hey ! I am Enzo Esmeraldo  <img src="https://github.com/ensinho/ensinho.github.io/blob/main/images/wartortle-favicon.png" alt="Wartortle" width="50"/>  </h1>
+<h1 align="start">Hey ! I am Enzo Esmeraldo  <img src="https://github.com/ensinho/ensinho.github.io/blob/main/images/wartortle-favicon.png" alt="Wartortle" width="42"/>  </h1>
 <h3 align="start">A Fullstack developer who likes pokémon </h3>
 
 - 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
