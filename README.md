@@ -22,7 +22,7 @@
             <img height="25" src="https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D" alt="typescript" title="Typescript " />
             <img height="25" src="https://img.shields.io/badge/next.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NuxtJs" title="NuxtJs " />
             <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="Angular " />
-            <img height="25" src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white" alt="java" title="Java " />
+            <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" title="Java " />
             <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python" />
          </div>
          <div>
