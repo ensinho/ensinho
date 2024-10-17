@@ -4,8 +4,9 @@ Hello there! I'm Enzo, a passionate fullstack developer currently studying in th
 
 When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
 
-A few things that make me peaceful:<br> 
+# About me
 
+A few things that i found peace:<br> 
 🎮 Catching 'em all in Pokémon games <br>
 🖥️ Crafting intuitive front-end designs and exploring software development <br>
 🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
@@ -46,13 +47,13 @@ Let's build, learn, and geek out together!
   </div>
 </p>
 
-# 🌐 Socials:
+# Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoesmeraldo/)
 
 
-###
+#
 
 <div align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=317.5&langs_count=7&theme=tokyonight&hide_border=false&username=ensinho" height="195" alt="languages graph"  />
