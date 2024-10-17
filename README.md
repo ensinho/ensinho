@@ -1,11 +1,20 @@
-<h1 align="start">Hey ! I am Enzo Esmeraldo  <img src="https://github.com/ensinho/ensinho.github.io/blob/main/images/wartortle-favicon.png" alt="Wartortle" width="46"/>  </h1>
-<h3 align="start">A Fullstack developer who likes pokémon </h3>
+<h1 align="start">Hey ! I am Enzo Esmeraldo  <img src="https://github.com/ensinho/ensinho.github.io/blob/main/images/wartortle-favicon.png" alt="Wartortle" width="52"/>  </h1>
+<h3 align="start">A Fullstack Developer Who Loves Pokémon! 🐾</h3>
+Hey there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of Computer Science at Federal University of Ceará - UFC.
 
-- 🔭 Currently in the 5th semester of Compter Science at **Federal University of Cerá - UFC**
+When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
 
-- 🦕 Learning now: **TypeScript,Angular and Git**
+A few things that make me peaceful:
 
-- 📫 My email: **enzoesmeraldo@alu.ufc.br**
+🎮 Catching 'em all in Pokémon games
+🖥️ Crafting intuitive front-end designs and exploring software development
+🧑‍💻 Pair-programming with TypeScript, Angular, and Git
+💪 Hitting the gym and challenging myself with new workouts
+
+📫 Reach me at enzoesmeraldo@alu.ufc.br
+Let's build, learn, and geek out together!
+
+> <span style="color: purple;">"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." — MewTwo</span>
 
 # 💻 Languages & Tools...
 
