@@ -1,15 +1,15 @@
 <h1 align="start">Hey ! I am Enzo Esmeraldo  <img src="https://github.com/ensinho/ensinho.github.io/blob/main/images/wartortle-favicon.png" alt="Wartortle" width="52"/>  </h1>
 <h3 align="start">A Fullstack Developer Who Loves Pokémon! 🐾</h3>
-Hey there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of Computer Science at Federal University of Ceará - UFC.
+Hello there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of <br> Computer Science at Federal University of Ceará - UFC.
 
 When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
 
-A few things that make me peaceful:
+A few things that make me peaceful:<br> 
 
-🎮 Catching 'em all in Pokémon games
-🖥️ Crafting intuitive front-end designs and exploring software development
-🧑‍💻 Pair-programming with TypeScript, Angular, and Git
-💪 Hitting the gym and challenging myself with new workouts
+🎮 Catching 'em all in Pokémon games <br>
+🖥️ Crafting intuitive front-end designs and exploring software development <br>
+🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
+💪 Hitting the gym and challenging myself with new workouts 
 
 📫 Reach me at enzoesmeraldo@alu.ufc.br
 Let's build, learn, and geek out together!
