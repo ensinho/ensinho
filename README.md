@@ -10,7 +10,7 @@ A few things that i found peace:<br>
 🎮 Catching 'em all in Pokémon games <br>
 🖥️ Crafting intuitive front-end designs and exploring software development <br>
 🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
-💪 Hitting the gym and challenging myself with new workouts 
+💪 Working out with a rock playlist in my ears
 
 📫 Reach me at enzoesmeraldo@alu.ufc.br
 Let's build, learn, and geek out together!
