@@ -1,10 +1,10 @@
-<h1 align="start">👾 Hello there! I'm Enzo Esmeraldo  <img src="https://github.com/ensinho/pokemonsis/blob/main/gengar-gif.gif" alt="Gengar icon" width="68"/>  </h1>
+<h1 align="start">Hello there! I'm Enzo Esmeraldo  <img src="https://github.com/ensinho/pokemonsis/blob/main/gengar-gif.gif" alt="Gengar icon" width="68"/>  </h1>
 <h3 align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
 Hello there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of <br> Computer Science at Federal University of Ceará - UFC.
 
 When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
  
-# 😼 About me   <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="65"/>
+# About me   <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="65"/>
 
 A few things that i found peace:<br> 
 🎮 Catching 'em all in Pokémon games  <br>
