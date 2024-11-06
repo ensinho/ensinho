@@ -1,4 +1,4 @@
-<img src="https://github.com/ensinho/pokemonsis/blob/main/umbreom%20sun.jpg" alt="Gengar icon" width="800" height="600"/>
+<img src="https://github.com/ensinho/pokemonsis/blob/main/umbreom%20sun.jpg" alt="Gengar icon" width="900" height="400"/>
 <h1 align="start">Hello there! I'm Enzo Esmeraldo  <img src="https://github.com/ensinho/pokemonsis/blob/main/gengar-gif.gif" alt="Gengar icon" width="65"/>  </h1>
 <h3 align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
 Hello there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of <br> Computer Science at Federal University of Ceará - UFC.
