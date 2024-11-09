@@ -56,7 +56,7 @@ Let's build, learn, and geek out together!
 #
 
 <div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=317.5&langs_count=7&theme=tokyonight&hide_border=false&username=ensinho" height="195" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=317.5&langs_count=8&theme=tokyonight&hide_border=false&username=ensinho" height="195" alt="languages graph"  />
 
  <img src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight" />
 
