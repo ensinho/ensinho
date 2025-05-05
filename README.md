@@ -2,18 +2,18 @@
 <h3 style="color: red" align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
 Hello there! I'm Enzo, a passionate fullstack developer. Started my graduation of <br> Computer Science at Federal University of Ceará - UFC. But currently im at Universidade de Fortaleza - UNIFOR completing the graduation.
 
-When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
+I'm always on the lookout for ways to blend development with sleek UI/UX design to create some nice web experiences. Oh, and I absolutely love sharks 🦈!
  
 # About me   <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="65"/>
 
-A few things that i found peace:<br> 
-🎮 Catching 'em all in Pokémon games  <br>
+A few things that i love:<br> 
+🎮 Catching them all in Pokémon games  <br>
 🖥️ Crafting intuitive front-end designs and exploring software development <br> 
 🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
-💪 Working out with a rock playlist in my ears  
+💪 Working out with a rock playlist 
 
 📫 Reach me at enzopo625@gmail.com
-Let's build, learn, and geek out together!
+Let's build together!
 
 > <span style="color: purple;">"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." — MewTwo</span>
 
