@@ -1,6 +1,6 @@
-<h1 align="start">Hello there! I'm Enzo Esmeraldo  <img src="https://github.com/ensinho/pokemonsis/blob/main/gengar-gif.gif" alt="Gengar icon" width="68"/>  </h1>
+<h1 align="start">Hello there! I'm Enzo Esmeraldo  <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="72"/>  </h1>
 <h3 style="color: red" align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
-Hello there! I'm Enzo, a passionate fullstack developer currently studying in the 6th semester of <br> Computer Science at Federal University of Ceará - UFC.
+Hello there! I'm Enzo, a passionate fullstack developer. Started my graduation of <br> Computer Science at Federal University of Ceará - UFC. But currently im at Universidade de Fortaleza - UNIFOR completing the graduation.
 
 When I'm not diving deep into code, you'll probably find me at the gym or learning about computer networks. I'm always on the lookout for ways to blend development with sleek UI/UX design to create memorable web experiences. Oh, and I absolutely love sharks 🦈!
  
@@ -12,12 +12,12 @@ A few things that i found peace:<br>
 🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
 💪 Working out with a rock playlist in my ears  
 
-📫 Reach me at enzoesmeraldo@alu.ufc.br
+📫 Reach me at enzopo625@gmail.com
 Let's build, learn, and geek out together!
 
 > <span style="color: purple;">"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." — MewTwo</span>
 
-# 👻 Languages & Tools <img src="https://github.com/ensinho/pokemonsis/blob/main/lugia.gif" alt="Lugia icon" width="65"/>
+# 👻 Languages & Tools <img src="https://img.pokemondb.net/sprites/sword-shield/normal/incineroar.png" alt="Incineroar icon" width="81"/>
 
 <p align="start">
 
