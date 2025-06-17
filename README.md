@@ -17,7 +17,7 @@ Let's build together!
 
 > <span style="color: purple;">"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." — MewTwo</span>
 
-# 👻 Languages & Tools <img src="https://img.pokemondb.net/sprites/sword-shield/normal/incineroar.png" alt="Incineroar icon" width="81"/>
+# Languages & Tools <img src="https://img.pokemondb.net/sprites/sword-shield/normal/incineroar.png" alt="Incineroar icon" width="81"/>
 
 <p align="start">
 
@@ -31,6 +31,7 @@ Let's build together!
             <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python" />
             <img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" title="Git" />
             <img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" title="C++" />
+            <img height="25" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React" />
          </div>
          <div>
             <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML " />
