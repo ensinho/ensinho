@@ -1,6 +1,6 @@
 <h1 align="start">Hello there! I'm Enzo Esmeraldo <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="64"/> </h1>
 <h3 style="color: red" align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
-Hello there! I'm Enzo, a passionate fullstack developer. Started my graduation of <br> Computer Science at Federal University of Ceará - UFC. But currently im at Universidade de Fortaleza - UNIFOR completing the graduation.
+Hello there! I'm Enzo, a passionate fullstack developer. Started my graduation of Computer Science at Federal University of Ceará - UFC. But currently im at Universidade de Fortaleza - UNIFOR completing the graduation.
 
 I'm always on the lookout for ways to blend development with sleek UI/UX design to create some nice web experiences. Oh, and I absolutely love sharks 🦈!
  
