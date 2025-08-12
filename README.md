@@ -1,19 +1,22 @@
 <h1 align="start">Hello there! I'm Enzo Esmeraldo <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="64"/> </h1>
-<h3 style="color: red" align="start">A Fullstack Developer Who Loves Pokémon!  </h3>
-Hello there! I'm Enzo, a passionate fullstack developer. Started my graduation of Computer Science at Federal University of Ceará - UFC. But currently im at Universidade de Fortaleza - UNIFOR completing the graduation.
+<h3 style="color: red" align="start">Fullstack Web Developer Who Loves Pokémon!  </h3>
 
-I'm always on the lookout for ways to blend development with sleek UI/UX design to create some nice web experiences. Oh, and I absolutely love sharks 🦈!
- 
-# About me  <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="72"/>
+I'm Enzo, a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences.  
+I started my Computer Science degree at the Federal University of Ceará - UFC, and I'm currently completing it at the Universidade de Fortaleza - UNIFOR.
 
-A few things that i love:<br> 
-🎮 Catching them all in Pokémon games  <br>
-🖥️ Crafting intuitive front-end designs and exploring software development <br> 
-🧑‍💻 Pair-programming with TypeScript, Angular, and Git <br>
-💪 Working out with a rock playlist 
+My current focus is on **modern web development**, working across the full stack to craft applications that are not only functional but also intuitive and delightful to use.  
+Oh, and I absolutely love sharks 🦈!
 
-📫 Reach me at enzopo625@gmail.com
-Let's build together!
+## About me <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="68"/>
+
+A few things I love:  
+🎮 Catching them all in Pokémon games  
+🖥️ Designing and developing responsive, user-friendly web applications  
+🧑‍💻 Working with TypeScript, Angular, Node.js, and Git  
+💪 Hitting the gym with a rock playlist  
+
+📫 **Reach me at:** enzopo625@gmail.com  
+💬 Let's build something amazing together!
 
 > <span style="color: purple;">"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." — MewTwo</span>
 
