@@ -14,7 +14,7 @@
 
 ## 🐳 About Me
 
-<img align="right" alt="Coding" width="320" src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif">
+<img align="right" alt="Coding" width="260" src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif">
 
 I'm Enzo, a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
