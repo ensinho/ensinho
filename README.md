@@ -128,17 +128,11 @@ const enzo = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensinho&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensinho&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=0EA5E9&currStreakLabel=3B82F6&border_radius=10" alt="GitHub Streak" />
-</div>
-
 ---
 
 📫 **Reach me at:** enzopo625@gmail.com  
 💼 **LinkedIn:** [Enzo Esmeraldo](https://www.linkedin.com/in/enzoesmeraldo/)  
 📸 **Instagram:** [@enzoesmeraldo](https://instagram.com/enzoesmeraldo)
-
-💡 **Let's build something amazing together!**
 
 ---
 
