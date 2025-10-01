@@ -12,7 +12,7 @@
 
 ---
 
-## 🐳 About Me <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="44"/>
+### 🐳 About Me 
 
 I'm Enzo, a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
@@ -27,8 +27,6 @@ My current focus is on **modern web development**, working across the full stack
 - 🦕 Building educational and interactive experiences
 
 ---
-
-## 🛠️ Languages & Tools <img src="https://img.pokemondb.net/sprites/sword-shield/normal/incineroar.png" alt="Incineroar icon" width="64"/>
 
 ### Frontend Technologies
 <p>
@@ -71,8 +69,6 @@ My current focus is on **modern web development**, working across the full stack
 
 ---
 
-## 🌟 Featured Projects
-
 ### 🦕 [Dino Library](https://github.com/ensinho/dino-library) | [Live Demo](https://dino-library.vercel.app)
 
 <div align="center">
@@ -80,8 +76,6 @@ My current focus is on **modern web development**, working across the full stack
 </div>
 
 **An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
-
-**Tech Stack:** React • TypeScript • Supabase • Leaflet • TanStack Query • Tailwind CSS
 
 **Key Features:**
 - Interactive catalog with 500+ dinosaur species
@@ -108,8 +102,6 @@ My current focus is on **modern web development**, working across the full stack
 
 A team builder created with React and Tailwind, with Firebase integration for data persistence.
 
-**Tech Stack:** React • Tailwind CSS • Firebase
-
 **Key Features:**
 - Create unlimited Pokémon teams
 - Filter and search through the Pokédex
@@ -122,16 +114,12 @@ A team builder created with React and Tailwind, with Firebase integration for da
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&username=ensinho" alt="Top Languages" />
 </div>
 
 ---
-
-## 💬 Let's Connect!
 
 📫 **Reach me at:** enzopo625@gmail.com  
 💼 **LinkedIn:** [Enzo Esmeraldo](https://www.linkedin.com/in/enzoesmeraldo/)  
