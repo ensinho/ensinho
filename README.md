@@ -12,7 +12,7 @@
 
 ---
 
-## 🐳 About Me <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="48"/>
+## 🐳 About Me <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="44"/>
 
 I'm Enzo, a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
@@ -76,7 +76,7 @@ My current focus is on **modern web development**, working across the full stack
 ### 🦕 [Dino Library](https://github.com/ensinho/dino-library) | [Live Demo](https://dino-library.vercel.app)
 
 <div align="center">
-  <img src="https://github.com/ensinho/dino-library/blob/main/src/assets/backgrounds/JurassicBackground.jpg" width="67%" alt="Dino Library" width="100%"/>
+  <img src="https://github.com/ensinho/dino-library/blob/main/src/assets/backgrounds/JurassicBackground.jpg" width="60%" alt="Dino Library"/>
 </div>
 
 **An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
@@ -84,12 +84,12 @@ My current focus is on **modern web development**, working across the full stack
 **Tech Stack:** React • TypeScript • Supabase • Leaflet • TanStack Query • Tailwind CSS
 
 **Key Features:**
-- 🔍 Interactive catalog with 500+ dinosaur species
-- 🗺️ Interactive archaeological maps with Leaflet
-- ⏰ Evolutionary timeline visualization
-- 🎓 Educational quizzes and gamified learning
-- 🌐 Multi-language support (PT, EN, ES)
-- 👤 Authentication and profile system
+- Interactive catalog with 500+ dinosaur species
+- Interactive archaeological maps with Leaflet
+- Evolutionary timeline visualization
+- Educational quizzes and gamified learning
+- Multi-language support (PT, EN, ES)
+- Authentication and profile system
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue?style=flat-square&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -99,9 +99,9 @@ My current focus is on **modern web development**, working across the full stack
 
 ### 👾 [Pokémon Team Builder](https://github.com/ensinho/pokemonTeamBuilder) | [Live Demo](https://ensinho.github.io/pokemonTeamBuilder/)
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/af8c0414-46f2-4607-afad-61c17148019a" width="55%" alt="Pokémon Team Builder interface showing created teams">
-  <img src="https://github.com/user-attachments/assets/1b3f1a5e-7e39-41da-8007-f755673b398e" width="25%" alt="Pokédex view with filtering options">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/af8c0414-46f2-4607-afad-61c17148019a" width="52%" alt="Pokémon Team Builder interface showing created teams">
+  <img src="https://github.com/user-attachments/assets/1b3f1a5e-7e39-41da-8007-f755673b398e" width="22%" alt="Pokédex view with filtering options">
 </div>
 
 **Let's build some pretty cool teams with it! ✨**
@@ -111,10 +111,10 @@ A team builder created with React and Tailwind, with Firebase integration for da
 **Tech Stack:** React • Tailwind CSS • Firebase
 
 **Key Features:**
-- 🎨 Create unlimited Pokémon teams
-- 🔍 Filter and search through the Pokédex
-- 💾 Save teams to your Firebase account
-- 🎯 Beautiful and responsive UI
+- Create unlimited Pokémon teams
+- Filter and search through the Pokédex
+- Save teams to your Firebase account
+- Beautiful and responsive UI
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
