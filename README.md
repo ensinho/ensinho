@@ -10,7 +10,7 @@ Oh, and I absolutely love sharks 🦈!
 ## About me <img src="https://github.com/ensinho/pokemonsis/blob/main/koraidon.png" alt="Koraidon icon" width="68"/>
 
 A few things I love:  
-🎮 Catching them all in Pokémon games ( Also love the Hades 💀 franchise )
+🎮 Catching them all in Pokémon games ( Also love the Hades 💀 franchise ) <br>
 🖥️ Designing and developing responsive, user-friendly web applications  
 🧑‍💻 Working with TypeScript, Angular, Node.js, and Git  
 💪 Hitting the gym with a rock playlist  
