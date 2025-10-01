@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Enzo%20Esmeraldo&fontSize=50&fontColor=fff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Pok%C3%A9mon%20Trainer&descSize=18&descAlignY=55" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=gradient&customColorList=12,20,26&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/enzoesmeraldo/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzopo625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoesmeraldo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzopo625@gmail.com)
 
 </div>
 
@@ -124,12 +124,12 @@ const enzo = {
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF006E&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensinho&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensinho&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensinho&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF006E&fire=FFDE00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensinho&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=0EA5E9&currStreakLabel=3B82F6&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
