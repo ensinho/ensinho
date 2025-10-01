@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Enzo%20Esmeraldo&fontSize=50&fontColor=fff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Pok%C3%A9mon%20Trainer&descSize=18&descAlignY=55" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/enzoesmeraldo/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
