@@ -76,7 +76,7 @@ My current focus is on **modern web development**, working across the full stack
 ### 🦕 [Dino Library](https://github.com/ensinho/dino-library) | [Live Demo](https://dino-library.vercel.app)
 
 <div align="center">
-  <img src="https://github.com/ensinho/dino-library/blob/main/src/assets/backgrounds/JurassicBackground.jpg" width="85%" alt="Dino Library" width="100%"/>
+  <img src="https://github.com/ensinho/dino-library/blob/main/src/assets/backgrounds/JurassicBackground.jpg" width="67%" alt="Dino Library" width="100%"/>
 </div>
 
 **An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
@@ -99,9 +99,9 @@ My current focus is on **modern web development**, working across the full stack
 
 ### 👾 [Pokémon Team Builder](https://github.com/ensinho/pokemonTeamBuilder) | [Live Demo](https://ensinho.github.io/pokemonTeamBuilder/)
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/af8c0414-46f2-4607-afad-61c17148019a" width="69%" alt="Pokémon Team Builder interface showing created teams">
-  <img src="https://github.com/user-attachments/assets/1b3f1a5e-7e39-41da-8007-f755673b398e" width="30%" alt="Pokédex view with filtering options">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/af8c0414-46f2-4607-afad-61c17148019a" width="55%" alt="Pokémon Team Builder interface showing created teams">
+  <img src="https://github.com/user-attachments/assets/1b3f1a5e-7e39-41da-8007-f755673b398e" width="25%" alt="Pokédex view with filtering options">
 </div>
 
 **Let's build some pretty cool teams with it! ✨**
