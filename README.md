@@ -1,30 +1,35 @@
 <div align="center">
 
-# Hello there! I'm Enzo Esmeraldo <img src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif" alt="Arcanine icon" width="64"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Enzo%20Esmeraldo&fontSize=50&fontColor=fff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Pok%C3%A9mon%20Trainer&descSize=18&descAlignY=55" />
 
-### 🚀 Fullstack Web Developer Who Loves Pokémon!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoesmeraldo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzopo625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/enzoesmeraldo/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzopo625@gmail.com)
 
 </div>
 
 ---
 
-### 🐳 About Me 
+## 🐳 About Me
+
+<img align="right" alt="Coding" width="320" src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif">
 
 I'm Enzo, a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
 My current focus is on **modern web development**, working across the full stack to craft applications that are not only functional but also intuitive and delightful to use. Oh, and I absolutely love sharks 🦈!
 
-### 🎯 What I Love
+### ⚡ What I Love
 
-- 🎮 Catching them all in Pokémon games (Also love the Hades 💀 franchise)
-- 🖥️ Designing and developing responsive, user-friendly web applications
-- 🧑‍💻 Working with TypeScript, Angular, React, Node.js, and modern frameworks
-- 💪 Hitting the gym with a rock playlist
-- 🦕 Building educational and interactive experiences
+```typescript
+const enzo = {
+    hobbies: ["🎮 Catching Pokémon", "💀 Playing Hades", "🏋️ Gym & Rock Music"],
+    currentFocus: "Building interactive web experiences",
+    skills: ["TypeScript", "Angular", "React", "Node.js"],
+    funFact: "I absolutely love sharks 🦈"
+};
+```
 
 ---
 
@@ -69,54 +74,62 @@ My current focus is on **modern web development**, working across the full stack
 
 ---
 
-### 🦕 [Dino Library](https://github.com/ensinho/dino-library) | [Live Demo](https://dino-library.vercel.app)
+<details open>
+<summary>🦕 <b>Dino Library</b> - Educational Paleontology Platform</summary>
+<br>
 
-<div align="center">
-  <img src="https://github.com/ensinho/dino-library/blob/main/src/assets/backgrounds/JurassicBackground.jpg" width="60%" alt="Dino Library"/>
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://dino-library.vercel.app)
+[![GitHub](https://img.shields.io/badge/📦_Repository-8B5CF6?style=for-the-badge)](https://github.com/ensinho/dino-library)
 
 **An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
 
-**Key Features:**
-- Interactive catalog with 500+ dinosaur species
-- Interactive archaeological maps with Leaflet
-- Evolutionary timeline visualization
-- Educational quizzes and gamified learning
-- Multi-language support (PT, EN, ES)
-- Authentication and profile system
+**🛠️ Tech Stack:**
+- React 18 + TypeScript
+- Supabase (PostgreSQL + Auth)
+- Leaflet Maps
+- Tailwind CSS + Radix UI
+- i18next (Multi-language)
 
-[![React](https://img.shields.io/badge/React-18.3.1-blue?style=flat-square&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-Database-green?style=flat-square&logo=supabase)](https://supabase.com/)
+**✨ Key Features:**
+- 500+ Dinosaur species database
+- Interactive archaeological maps
+- Evolutionary timeline
+- Educational quizzes
+- Multi-language support
 
----
+</details>
 
-### 👾 [Pokémon Team Builder](https://github.com/ensinho/pokemonTeamBuilder) | [Live Demo](https://ensinho.github.io/pokemonTeamBuilder/)
+<details>
+<summary>👾 <b>Pokémon Team Builder</b> - Strategic Team Creator</summary>
+<br>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/af8c0414-46f2-4607-afad-61c17148019a" width="52%" alt="Pokémon Team Builder interface showing created teams">
-  <img src="https://github.com/user-attachments/assets/1b3f1a5e-7e39-41da-8007-f755673b398e" width="22%" alt="Pokédex view with filtering options">
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF006E?style=for-the-badge)](https://ensinho.github.io/pokemonTeamBuilder/)
+[![GitHub](https://img.shields.io/badge/📦_Repository-FFDE00?style=for-the-badge&logoColor=black)](https://github.com/ensinho/pokemonTeamBuilder)
 
 **Let's build some pretty cool teams with it! ✨**
 
-A team builder created with React and Tailwind, with Firebase integration for data persistence.
+**🛠️ Tech Stack:**
+- React
+- Tailwind CSS
+- Firebase
 
-**Key Features:**
-- Create unlimited Pokémon teams
-- Filter and search through the Pokédex
-- Save teams to your Firebase account
-- Beautiful and responsive UI
+**✨ Key Features:**
+- Create unlimited teams
+- Advanced Pokédex filtering
+- Cloud save with Firebase
+- Fully responsive
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&username=ensinho" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF006E&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensinho&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensinho&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF006E&fire=FFDE00&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 ---
