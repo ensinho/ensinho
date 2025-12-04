@@ -74,7 +74,7 @@ const enzo = {
 
 ---
 
-<details open>
+<details>
 <summary>🦕 <b>Dino Library</b> - Educational Paleontology Platform</summary>
 <br>
 
@@ -123,11 +123,7 @@ const enzo = {
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ensinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensinho&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ensinho&theme=tokyonight&hide_border=true&border_radius=16&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
 
 📫 **Reach me at:** enzopo625@gmail.com  
