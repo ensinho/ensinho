@@ -122,11 +122,12 @@ const enzo = {
 ---
 
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Ensinho&theme=tokyonight&hide_border=true&border_radius=16&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" width="46%" align="left" alt="GitHub Streak">
-    </a>
+
+<a href="https://github.com/Ensinho">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" width="48%" align="left" alt="GitHub Contributor Stats">
+</a>
     
-  <img src="metrics.plugin.music.recent.svg" width="48%" align="right" alt="Spotify Recent">
+<img src="metrics.plugin.music.recent.svg" width="48%" align="right" alt="Spotify Recent">
 
 
 </div>
