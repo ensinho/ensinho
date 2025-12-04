@@ -30,8 +30,7 @@ const enzo = {
     funFact: "I absolutely love sharks 🦈"
 };
 ```
-### 🎧 Recent tracks
-<img src="metrics.plugin.music.recent.svg" alt="Spotify Recent" width="100%">
+
 ---
 
 ### Frontend Technologies
@@ -124,7 +123,17 @@ const enzo = {
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ensinho&theme=tokyonight&hide_border=true&border_radius=16&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Ensinho&theme=tokyonight&hide_border=true&border_radius=16&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" width="46%" align="left" alt="GitHub Streak">
+    </a>
+    
+  <img src="metrics.plugin.music.recent.svg" width="50%" align="right" alt="Spotify Recent">
+
+
+</div>
+<br clear="all">
+
 ---
 
 📫 **Reach me at:** enzopo625@gmail.com  
