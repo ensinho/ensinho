@@ -17,12 +17,14 @@ jobs:
         uses: GitGinocchio/SpotifyStatsAction@v0.5-beta.4
         with:
           readme_list: "README.md"
+          
           update_last_played_songs: true
           last_played_songs_to_show: 5
+          
           update_user_top_artists: true
           top_artists_to_show: 5
+          
         env:
-
           CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
