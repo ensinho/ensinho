@@ -19,8 +19,14 @@ jobs:
           token: NOT_NEEDED
           base: ""
 
-          config_theme: dracula
-          config_padding: 0, 8 + 5%
+          extras_css: |
+            :root {
+              --color-text-primary: #f8f8f2;     /* Branco Suave */
+              --color-text-secondary: #bd93f9;   /* Roxo Dracula */
+              --color-background: #282a36;       /* Fundo Escuro */
+            }
+            .field, .field svg { fill: #f8f8f2 !important; color: #f8f8f2 !important; }
+            .header { color: #50fa7b !important; } /* Verde para títulos */
           
           # Configurações do Spotify
           plugin_music: yes
