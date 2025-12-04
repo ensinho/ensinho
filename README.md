@@ -135,12 +135,6 @@ const enzo = {
 
 ---
 
-📫 **Reach me at:** enzopo625@gmail.com  
-💼 **LinkedIn:** [Enzo Esmeraldo](https://www.linkedin.com/in/enzoesmeraldo/)  
-📸 **Instagram:** [@enzoesmeraldo](https://instagram.com/enzoesmeraldo)
-
----
-
 <div align="center">
 
 > *"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are."* — Mewtwo
