@@ -18,6 +18,9 @@ jobs:
           
           token: NOT_NEEDED
           base: ""
+
+          config_theme: dracula
+          config_padding: 0, 8 + 5%
           
           # Configurações do Spotify
           plugin_music: yes
