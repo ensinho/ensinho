@@ -126,7 +126,7 @@ const enzo = {
     <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" alt="GitHub Contributor Stats" width="45%" style="height: 195px;">
   </a>
   <a href="https://github.com/ensinho/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" style="height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" width="45%" style="height: 195px;">
   </a>
 </div>
 
