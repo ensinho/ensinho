@@ -121,7 +121,7 @@ const enzo = {
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap: nowrap;">
   <a href="https://github.com/Ensinho">
     <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" alt="GitHub Contributor Stats" style="height: 195px;">
   </a>
