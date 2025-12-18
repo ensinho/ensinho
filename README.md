@@ -121,13 +121,13 @@ const enzo = {
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/Ensinho">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" width="46%" align="left" alt="GitHub Contributor Stats">
-</a>
-
-[![Ensinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true)](https://github.com/ensinho/github-readme-stats)
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Ensinho">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" alt="GitHub Contributor Stats" style="height: 195px;">
+  </a>
+  <a href="https://github.com/ensinho/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" style="height: 195px;">
+  </a>
 </div>
+
 <br clear="all">
