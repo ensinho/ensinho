@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Enzo%20Esmeraldo&fontSize=50&fontColor=fff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Pok%C3%A9mon%20Trainer&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Enzo%20Esmeraldo&fontSize=50&fontColor=fff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Pok%C3%A9mon%20Trainer&descSize=18&descAlignY=55&fontFamily=JetBrains%20Mono" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=gradient&customColorList=12,20,26&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=2000&color=gradient&customColorList=12,20,26&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8E%AE+Pok%C3%A9mon+Enthusiast;%F0%9F%92%BB+React+%7C+Angular+%7C+Node.js;%F0%9F%9A%80+Building+Amazing+Experiences! )](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&random=1)](https://www.linkedin.com/in/enzoesmeraldo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzoesmeraldo)
@@ -23,6 +23,7 @@ My current focus is on **modern web development**, working across the full stack
 ### ⚡ What I Love
 
 ```typescript
+// Esta fonte será aplicada pelo GitHub automaticamente
 const enzo = {
     hobbies: ["🎮 Catching Pokémon", "💀 Playing Hades", "🏋️ Gym & Rock Music"],
     currentFocus: "Building interactive web experiences",
@@ -123,10 +124,10 @@ const enzo = {
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap: nowrap;">
   <a href="https://github.com/Ensinho">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" alt="GitHub Contributor Stats" width="48%" style="height: 195px;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ensinho&limit=3&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" alt="GitHub Contributor Stats" width="49%" style="height: 195px;">
   </a>
   <a href="https://github.com/ensinho/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" width="47%" style="height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" width="48%" style="height: 195px;">
   </a>
 </div>
 
