@@ -132,15 +132,3 @@ const enzo = {
 
 </div>
 <br clear="all">
-
----
-
-<div align="center">
-
-> *"The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are."* — Mewtwo
-
-⭐ **If you like my work, consider giving my projects a star!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
-
-</div>
