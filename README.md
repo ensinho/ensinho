@@ -1,27 +1,17 @@
-<div align="center">
-
-<img width="100%" src="https://i.pinimg.com/originals/c9/43/3c/c9433c679934ab3edc0a288d62981a34.gif"/>
-
-</div>
-
----
-
 ## 🐳 Hi, im Enzo Esmeraldo
 
-<img align="right" alt="Coding" width="260" src="https://github.com/ensinho/pokemonsis/blob/main/arcanine.gif">
-
+<img align="right" alt="Lugia Gif" width="49%" src="https://i.pinimg.com/originals/c9/43/3c/c9433c679934ab3edc0a288d62981a34.gif">
+    
 > I'm a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
-> My current focus is on **modern web development**, working across the full stack to craft applications that are not only functional but also intuitive and delightful to use. Oh, and I absolutely love sharks 🦈!
-
-### ⚡ What I Love
+> My current focus is on **modern web development**, working across <br> the full stack to craft applications that are not only functional but also intuitive and delightful to use. Oh, and I absolutely love sharks 🦈!
 
 ```typescript
 const enzo = {
     hobbies: ["🎮 Catching Pokémon", "💀 Playing Hades", "🏋️ Gym & Rock Music"],
     currentFocus: "Building interactive web experiences",
     skills: ["TypeScript", "Angular", "React", "Node.js"],
-    funFact: "I absolutely love sharks 🦈"
+    funFact: "I absolutely love pokémon 🦈"
 };
 ```
 
@@ -117,8 +107,9 @@ const enzo = {
 <div style="display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap: nowrap;">
 
   <a href="https://github.com/ensinho/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ensinho&theme=tokyonight&hide_border=true" alt="Ensinho's GitHub stats" width="95%" style="height: 200px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ensinho&theme=tokyonight" alt="Ensinho's GitHub stats" width="95%" style="height: 200px;">
   </a>
+  
 </div>
 
 <br clear="all">
