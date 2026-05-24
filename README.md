@@ -49,60 +49,47 @@
 ---
 
 <details>
-<summary>🦕 <b>Dino Library</b> - Educational Paleontology Platform</summary>
+<summary>👾 <b>Pokémon Team Builder</b> - Build creative teams </summary>
 <br>
+    
+**Let's build some pretty cool teams with it! ✨**
+Design and manage your perfect Pokémon teams with ease. Build, preview, and save custom rosters using an interactive, modern web application built with React and Tailwind CSS.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://dino-library.vercel.app)
-[![GitHub](https://img.shields.io/badge/📦_Repository-8B5CF6?style=for-the-badge)](https://github.com/ensinho/dino-library)
+<img width="1761" height="959" alt="image" src="https://github.com/user-attachments/assets/eabc28eb-b380-4787-a6b0-abef2861f019" />
 
-**An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
-
-**🛠️ Tech Stack:**
-- React 18 + TypeScript
-- Supabase (PostgreSQL + Auth)
-- Leaflet Maps
-- Tailwind CSS + Radix UI
-- i18next (Multi-language)
-
-**✨ Key Features:**
-- 500+ Dinosaur species database
-- Interactive archaeological maps
-- Evolutionary timeline
-- Educational quizzes
-- Multi-language support
+[![Website](https://img.shields.io/badge/🌐_Live_Demo-FF006E?style=for-the-badge)](https://ensinho.github.io/pokemonTeamBuilder/)
+[![Repo](https://img.shields.io/badge/📦_Repository-FFDE00?style=for-the-badge&logoColor=black)](https://github.com/ensinho/pokemonTeamBuilder)
 
 </details>
 
 <details>
-<summary>👾 <b>Pokémon Team Builder</b> - Strategic Team Creator</summary>
+<summary>🦕 <b>Dino Library</b> - Educational Paleontology Platform</summary>
 <br>
+    
+**An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
+Discover prehistoric life through an interactive, multilingual learning platform. Explore dinosaur species with detailed fact files, interactive maps, and scientific insights designed for curious minds of all ages.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF006E?style=for-the-badge)](https://ensinho.github.io/pokemonTeamBuilder/)
-[![GitHub](https://img.shields.io/badge/📦_Repository-FFDE00?style=for-the-badge&logoColor=black)](https://github.com/ensinho/pokemonTeamBuilder)
+<img width="1758" height="953" alt="image" src="https://github.com/user-attachments/assets/77460f5d-cba7-446f-b79f-dc9dc09c4d38" />
 
-**Let's build some pretty cool teams with it! ✨**
+[![Website](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://dino-library.vercel.app)
+[![Repo](https://img.shields.io/badge/📦_Repository-8B5CF6?style=for-the-badge)](https://github.com/ensinho/dino-library)
 
-**🛠️ Tech Stack:**
-- React
-- Tailwind CSS
-- Firebase
-
-**✨ Key Features:**
-- Create unlimited teams
-- Advanced Pokédex filtering
-- Cloud save with Firebase
-- Fully responsive
 
 </details>
 
+
+
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 4px; flex-wrap: nowrap;">
 
-  <a href="https://github.com/ensinho/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ensinho&theme=tokyonight" alt="Ensinho's GitHub stats" width="95%" style="height: 200px;">
-  </a>
-  
+<a href="https://github.com/ensinho/github-readme-stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ensinho&theme=tokyonight" alt="Ensinho's GitHub stats" width="32%">
+</a>
+
+<a href="https://github.com/ensinho/github-readme-stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ensinho&theme=tokyonight" alt="Ensinho's Profile Details" width="66%" />
+</a>
 </div>
 
 <br clear="all">
