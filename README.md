@@ -8,15 +8,6 @@
 
 > My current focus is on **modern web development**, working across <br> the full stack to craft applications that are not only functional but also intuitive and delightful to use. Oh, and I absolutely love sharks 🦈!
 
-```typescript
-const enzo = {
-    hobbies: ["🎮 Catching Pokémon", "💀 Playing Hades", "🏋️ Gym & Rock Music"],
-    currentFocus: "Building interactive web experiences",
-    skills: ["TypeScript", "Angular", "React", "Node.js"],
-    funFact: "I absolutely love pokémon 🦈"
-};
-```
-
 ---
 
 ### Frontend Technologies
