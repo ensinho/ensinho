@@ -1,7 +1,9 @@
+<div align="center">
+    <img alt="Lugia Gif" width="100%" src="https://i.pinimg.com/originals/c9/43/3c/c9433c679934ab3edc0a288d62981a34.gif">    
+</div>
+
 ## 🐳 Hi, im Enzo Esmeraldo
 
-<img align="right" alt="Lugia Gif" width="49%" src="https://i.pinimg.com/originals/c9/43/3c/c9433c679934ab3edc0a288d62981a34.gif">
-    
 > I'm a passionate **fullstack web developer** with a love for creating dynamic and visually appealing web experiences. I started my Computer Science degree at the **Federal University of Ceará (UFC)**, and I'm currently completing it at the **Universidade de Fortaleza (UNIFOR)**.
 
 > My current focus is on **modern web development**, working across <br> the full stack to craft applications that are not only functional but also intuitive and delightful to use. Oh, and I absolutely love sharks 🦈!
