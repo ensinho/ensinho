@@ -158,5 +158,3 @@ Discover prehistoric life through an interactive, multilingual learning platform
 
 
 </details>
-
-<br clear="all">
