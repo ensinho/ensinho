@@ -126,35 +126,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ensinho&theme=tokyonight" alt="Ensinho's Profile Details" width="66%" />
 </a>
 </div>
-
----
-
-## Some of my greatest projects 
-<details>
-<summary>👾 <b>Pokémon Team Builder</b> - Build creative teams </summary>
-<br>
-    
-**Let's build some pretty cool teams with it! ✨**
-Design and manage your perfect Pokémon teams with ease. Build, preview, and save custom rosters using an interactive, modern web application built with React and Tailwind CSS.
-
-<img width="1761" height="959" alt="image" src="https://github.com/user-attachments/assets/eabc28eb-b380-4787-a6b0-abef2861f019" />
-
-[![Website](https://img.shields.io/badge/🌐_Live_Demo-FF006E?style=for-the-badge)](https://ensinho.github.io/pokemonTeamBuilder/)
-[![Repo](https://img.shields.io/badge/📦_Repository-FFDE00?style=for-the-badge&logoColor=black)](https://github.com/ensinho/pokemonTeamBuilder)
-
-</details>
-
-<details>
-<summary>🦕 <b>Dino Library</b> - Educational Paleontology Platform</summary>
-<br>
-    
-**An immersive learning experience about dinosaurs through archaeological discoveries, interactive maps and scientific education.**
-Discover prehistoric life through an interactive, multilingual learning platform. Explore dinosaur species with detailed fact files, interactive maps, and scientific insights designed for curious minds of all ages.
-
-<img width="1758" height="953" alt="image" src="https://github.com/user-attachments/assets/77460f5d-cba7-446f-b79f-dc9dc09c4d38" />
-
-[![Website](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://dino-library.vercel.app)
-[![Repo](https://img.shields.io/badge/📦_Repository-8B5CF6?style=for-the-badge)](https://github.com/ensinho/dino-library)
-
-
-</details>
