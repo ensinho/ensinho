@@ -115,14 +115,3 @@
 
 </p>
 </table>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 4px; flex-wrap: nowrap;">
-
-<a href="https://github.com/ensinho/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ensinho&theme=tokyonight" alt="Ensinho's GitHub stats" width="32%">
-</a>
-
-<a href="https://github.com/ensinho/github-readme-stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ensinho&theme=tokyonight" alt="Ensinho's Profile Details" width="66%" />
-</a>
-</div>
