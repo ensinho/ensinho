@@ -1,0 +1,44 @@
+{
+  "user": {
+    "public_repos": 50,
+    "followers": 58
+  },
+  "repos": {
+    "pokemonbuilder": {
+      "name": "pokemonTeamBuilder",
+      "language": "JavaScript",
+      "stars": 14,
+      "pushed_at": "2026-11-23T23:45:58Z"
+    },
+    "devquest": {
+      "name": "devquest",
+      "language": "JavaScript",
+      "stars": 1,
+      "pushed_at": "2026-11-23T23:30:52Z"
+    },
+    "dinolibrary": {
+      "name": "dino-library",
+      "language": "TypeScript",
+      "stars": 3,
+      "pushed_at": "2026-10-23T22:04:05Z"
+    },
+    "qassistant": {
+      "name": "QAssistant",
+      "language": "TypeScript",
+      "stars": 1,
+      "pushed_at": "2026-10-23T13:03:58Z"
+    },
+    "gym": {
+      "name": "devMobile-gym",
+      "language": "Kotlin",
+      "stars": 5,
+      "pushed_at": "2025-06-12T22:15:24Z"
+    },
+    "portfolio": {
+      "name": "enzoesmeraldo",
+      "language": "JavaScript",
+      "stars": 0,
+      "pushed_at": "2026-11-23T20:43:51Z"
+    }
+  }
+}

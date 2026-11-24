@@ -1,8 +1,9 @@
 name: Spotify Metrics
 
+# Manual only. The 4-hourly schedule was committing an SVG the README no longer shows,
+# and the Spotify refresh token had been revoked. Renew the SPOTIFY_TOKENS secret and
+# add a schedule back if the music panel returns to the README.
 on:
-  schedule:
-    - cron: "0 */4 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -15,20 +16,20 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg
-          
+
           token: NOT_NEEDED
           base: ""
 
+          # No /* */ comments here: the action expanded them like shell globs into the SVG.
           extras_css: |
             :root {
-              --color-text-primary: #f8f8f2;     /* Branco Suave */
-              --color-text-secondary: #bd93f9;   /* Roxo Dracula */
-              --color-background: #282a36;       /* Fundo Escuro */
+              --color-text-primary: #f8f8f2;
+              --color-text-secondary: #bd93f9;
+              --color-background: #282a36;
             }
             .field, .field svg { fill: #f8f8f2 !important; color: #f8f8f2 !important; }
-            .header { color: #50fa7b !important; } /* Verde para títulos */
-          
-          # Configurações do Spotify
+            .header { color: #50fa7b !important; }
+
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent

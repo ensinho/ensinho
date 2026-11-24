@@ -1,0 +1,92 @@
+{
+  "github": {
+    "username": "ensinho"
+  },
+  "profile": {
+    "handle": "enzo",
+    "name": "Enzo Esmeraldo",
+    "intro": "Full-stack dev in Fortaleza, Brazil. I build products around what I love.",
+    "status": "BUILDING",
+    "mascot": "ghost-wave",
+    "facts": [
+      { "label": "REPOSITORIES", "value": "{public_repos}" },
+      { "label": "FOLLOWERS", "value": "{followers}" },
+      { "label": "BASE", "value": "Fortaleza, BR" },
+      { "label": "STUDYING", "value": "CS · Unifor" }
+    ]
+  },
+  "featured": ["pokemonbuilder", "devquest"],
+  "more": ["dinolibrary", "qassistant", "gym", "portfolio"],
+  "projects": {
+    "pokemonbuilder": {
+      "repo": "pokemonTeamBuilder",
+      "title": "PokemonBuilder",
+      "slug": "pokemonbuilder",
+      "url": "https://pokemonbuilder.app",
+      "description": "Build Pokémon teams with no blind spots. Live type coverage, a full Pokédex, a damage calculator and one-click Showdown export.",
+      "short": "Pokémon team builder with live type coverage",
+      "cta": "Open app",
+      "accent": "#a47bff",
+      "cover": "pokemonbuilder",
+      "guest": { "art": "ghost-champion", "corner": "right" }
+    },
+    "devquest": {
+      "repo": "devquest",
+      "title": "DevQuest",
+      "slug": "devquest",
+      "url": "https://devquest-rpg.vercel.app",
+      "description": "A full-stack web course played as an RPG. 22 quests with a live editor that checks your code as you type, and a pixel fox that evolves with you.",
+      "short": "A full-stack course played as an RPG",
+      "cta": "Play",
+      "accent": "#ffcb35",
+      "cover": "devquest",
+      "guest": { "art": "kitsuby", "corner": "left" }
+    },
+    "dinolibrary": {
+      "repo": "dino-library",
+      "title": "Dino Library",
+      "slug": "dino.library",
+      "url": "https://dino-library.vercel.app",
+      "description": "A digital museum of paleontology. 1,541 specimens, an interactive map of fossil sites and DOI-linked papers, in English, Portuguese and Spanish.",
+      "short": "Digital paleontology museum with 1,541 specimens",
+      "cta": "Visit museum",
+      "accent": "#6ee7c0",
+      "cover": "dinolibrary",
+      "guest": { "art": "ghost-magnifier", "corner": "right" }
+    },
+    "qassistant": {
+      "repo": "QAssistant",
+      "short": "VS Code extension that turns commits into QA test plans"
+    },
+    "gym": {
+      "repo": "devMobile-gym",
+      "short": "Gym app for the University of Fortaleza"
+    },
+    "portfolio": {
+      "repo": "enzoesmeraldo",
+      "short": "My portfolio, built as a jukebox"
+    }
+  },
+  "links": [
+    { "label": "enzoesmeraldo.dev", "url": "https://enzoesmeraldo.dev", "icon": "globe" },
+    { "label": "pokemonbuilder.app", "url": "https://pokemonbuilder.app", "icon": "ghost-headphones" },
+    { "label": "devquest", "url": "https://devquest-rpg.vercel.app", "icon": "kitsuby" },
+    { "label": "repositories", "url": "https://github.com/ensinho?tab=repositories", "icon": "grid" }
+  ],
+  "covers": {
+    "pokemonbuilder": { "url": "https://pokemonbuilder.app/", "colorScheme": "dark", "locale": "en-US", "clip": [206, 60, 1234, 800] },
+    "devquest": { "url": "https://devquest-rpg.vercel.app/", "colorScheme": "dark", "locale": "pt-BR", "click": "Pular introdução", "clip": [0, 0, 1386, 900] },
+    "dinolibrary": { "url": "https://dino-library.vercel.app/", "colorScheme": "dark", "locale": "en-US", "clip": [0, 0, 1386, 900] }
+  },
+  "theme": {
+    "dark": {
+      "bg": "#0f0d16", "rule": "#2b2639", "text": "#efeaf8", "muted": "#8f88a6", "label": "#6f6886", "accent": "#a47bff", "ink": "#120d1f",
+      "dither": ["#0f0d16", "#241c40", "#4a2f9a", "#8b62f0"]
+    },
+    "light": {
+      "bg": "#ffffff", "rule": "#ddd8ea", "text": "#1d1830", "muted": "#5f5878", "label": "#8a83a0", "accent": "#6a2bf0", "ink": "#120d1f",
+      "dither": ["#ffffff", "#ece6fb", "#c3aef5", "#7c4dff"]
+    }
+  },
+  "motion": { "frames": 30, "frameMs": 100 }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ensinho-profile",
+  "private": true,
+  "description": "Generated GitHub profile README for ensinho",
+  "scripts": {
+    "build": "node scripts/build-profile.mjs",
+    "build:offline": "node scripts/build-profile.mjs --offline",
+    "covers": "node scripts/capture-covers.mjs",
+    "fonts": "node scripts/measure-fonts.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}
